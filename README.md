@@ -1,4 +1,4 @@
-# Principia-rs
+# ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) Simplee...Principia...Rust...
 The code examples from [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
 
 ## 2. Idioms
