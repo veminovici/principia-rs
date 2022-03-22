@@ -1,3 +1,6 @@
+// Accepting Strings
+// https://rust-unofficial.github.io/patterns/idioms/ffi/accepting-strings.html
+
 // CStr
 
 // pub mod unsafe_module {

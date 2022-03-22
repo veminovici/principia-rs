@@ -1,4 +1,5 @@
 // #[non_exhaustive] and private fields for extensibility
+// https://rust-unofficial.github.io/patterns/idioms/priv-extend.html
 
 mod a {
     #[non_exhaustive]

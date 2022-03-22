@@ -1,3 +1,6 @@
+// Iterating Over an Option
+// https://rust-unofficial.github.io/patterns/idioms/option-iter.html
+
 // Iteratig over an Option
 
 fn test() {

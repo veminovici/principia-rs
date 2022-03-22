@@ -1,3 +1,6 @@
+// Error Handling in FFI
+// https://rust-unofficial.github.io/patterns/idioms/ffi/errors.html
+
 pub enum DatabaseError {
     IsReadonly,
     IOError(std::io::Error),

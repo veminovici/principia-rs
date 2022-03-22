@@ -1,5 +1,5 @@
 // Temporary mutability
-
+// https://rust-unofficial.github.io/patterns/idioms/temporary-mutability.html
 
 // nested block
 

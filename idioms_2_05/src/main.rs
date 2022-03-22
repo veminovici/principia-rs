@@ -1,3 +1,6 @@
+// Collection are Smart Pointers
+// https://rust-unofficial.github.io/patterns/idioms/deref.html
+
 // Collections are smart pointers
 // Implementing Deref for Vec, allows implicit dereferencing from &Vec<T> to &[T]
 

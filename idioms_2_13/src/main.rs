@@ -1,4 +1,5 @@
 // Easy do initialization
+// https://rust-unofficial.github.io/patterns/idioms/rustdoc-init.html
 
 use std::net::TcpStream;
 

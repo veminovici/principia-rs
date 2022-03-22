@@ -1,3 +1,6 @@
+// The Default trait
+// https://rust-unofficial.github.io/patterns/idioms/default.html
+
 // Default trait
 
 use std::{path::PathBuf, time::Duration};

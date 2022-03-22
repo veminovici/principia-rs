@@ -1,3 +1,6 @@
+// Constructor
+// https://rust-unofficial.github.io/patterns/idioms/ctor.html
+
 // use an associated function `new` to create an object.
 
 

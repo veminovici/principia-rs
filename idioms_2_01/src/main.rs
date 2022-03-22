@@ -4,6 +4,9 @@
 // &[T] over &Vec<T>
 // &T   over &Box<T>
 
+// Use borrowed types for arguments
+// https://rust-unofficial.github.io/patterns/idioms/coercion-arguments.html/
+
 // Determine if a word contains three consecutive vowels.
 // We don't need to own the string to determine this, so we will take a reference.
 

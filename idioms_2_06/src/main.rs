@@ -1,3 +1,6 @@
+// Finalisation in destructors
+// https://rust-unofficial.github.io/patterns/idioms/dtor-finally.html
+
 // Rust does not have finally, use the destructor
 
 fn bar() -> Result<(), ()> {

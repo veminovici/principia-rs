@@ -1,3 +1,6 @@
+// On-Stack Dynamic Dispatch
+// https://rust-unofficial.github.io/patterns/idioms/on-stack-dyn-dispatch.html
+
 use std::io;
 use std::fs;
 fn main() {

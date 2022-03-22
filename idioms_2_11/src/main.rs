@@ -1,4 +1,6 @@
-// Pass variabled to closure
+// Pass variables for closure
+// https://rust-unofficial.github.io/patterns/idioms/pass-var-to-closure.html
+
 use std::rc::Rc;
 
 fn main() {

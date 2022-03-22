@@ -1,3 +1,6 @@
+// mem::{take(_), replace(_)} to keep owned values in changed enums
+// https://rust-unofficial.github.io/patterns/idioms/mem-replace.html
+
 // An enum with two variants.
 
 use std::mem;
