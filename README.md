@@ -18,3 +18,6 @@ The code examples from [Rust Design Patterns](https://rust-unofficial.github.io/
 - 2.12. #[non_exhaustive] and private fields for extensibility [[doc](https://rust-unofficial.github.io/patterns/idioms/priv-extend.html), [code](./idioms_2_12/)]
 - 2.13. Easy doc initialization [[doc](https://rust-unofficial.github.io/patterns/idioms/rustdoc-init.html), [code](./idioms_2_13/)]
 - 2.14. Temporary mutability [[doc](https://rust-unofficial.github.io/patterns/idioms/temporary-mutability.html), [code](./idioms_2_14/)]
+
+## 3. Behavioural Patterns
+- 3.1. Command [[doc](https://rust-unofficial.github.io/patterns/patterns/behavioural/command.html), [code](./behaviour/command/)]
