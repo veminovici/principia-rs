@@ -18,4 +18,5 @@ members = [
     "idioms_2_14",
     "./behaviour/command/command_traits",
     "./behaviour/command/command_function",
+    "./behaviour/command/command_fn",
 ]
