@@ -16,5 +16,6 @@ members = [
     "idioms_2_12",
     "idioms_2_13",
     "idioms_2_14",
-    "./behaviour/command/command_traits"
+    "./behaviour/command/command_traits",
+    "./behaviour/command/command_function",
 ]
